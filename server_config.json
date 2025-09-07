@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/home/hyeok/workspace/mcp-tutorial"]
+    },
+    "tavily": {
+      "command": "npx",
+      "args": ["-y", "tavily-mcp@latest"],
+      "env": {
+        "TAVILY_API_KEY": null
+      }
+    },
+    "git": {
+        "command": "uvx",
+        "args": [
+            "mcp-server-git",
+            "--repository",
+            "/home/hyeok/workspace/mcp-tutorial"        
+        ]
+    },
+    "calculator": {
+            "command": "uv",
+            "args": ["run", "servers/stdio_servers/calculator.py"]
+    }
+  }
+}

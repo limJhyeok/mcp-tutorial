@@ -1,0 +1,17 @@
+# credentials
+.env
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.pyc
+*.ipynb
+.ruff_cache
+
+
+# Virtual environments
+.venv
