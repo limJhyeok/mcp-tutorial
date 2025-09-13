@@ -5,7 +5,7 @@ The course walks through the evolution of tool use in AI — from **Toolformer**
 
 ## 📺 Course Overview
 
-This repository follows along with the YouTube tutorial series:
+This repository follows along with the YouTube tutorial series: [self deep learning - MCP Course](https://www.youtube.com/watch?v=A6chBogLD0k&list=PL_-Bd6t4T02_JnGFZ9iPRa8B4kFeowg9m&index=4&ab_channel=selfdeeplearning)
 
 ### **Chapter 1 — How AI Uses Tools: From Toolformer to MCP**
 
