@@ -1,6 +1,6 @@
 # MCP Tutorial
 
-This repository contains the tutorial materials and example code for my **YouTube course on MCP (Model Context Protocol)**.
+This repository contains the tutorial materials and example code for my **[YouTube course on MCP (Model Context Protocol)](https://www.youtube.com/watch?v=A6chBogLD0k&list=PL_-Bd6t4T02_JnGFZ9iPRa8B4kFeowg9m&index=4&ab_channel=selfdeeplearning)**.
 The course walks through the evolution of tool use in AI — from **Toolformer** to **MCP** — and then dives into practical examples of building MCP servers, clients, and agents.
 
 ## 📺 Course Overview
